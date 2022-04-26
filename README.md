@@ -1,3 +1,3 @@
 # msensaleais.github.io
-JavaScript test
-Sandbox to experiment with JavaScript
+## JavaScript test  
+### Sandbox to experiment with JavaScript
